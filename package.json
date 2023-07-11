@@ -1,0 +1,17 @@
+{
+  "name": "fullstack-application-itj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
