@@ -1,7 +1,7 @@
 # Hello there!
 
 
-This is my project with the code test for the position as a **Full Stack Developer** at Dexcom and ITJ, I developed it entirely with **Javascript** and **Node.js ** as the execution environment of the same, in this I include the following structure:
+This is my project with the code challenge for the position as a **Full Stack Developer** at Dexcom and ITJ, I developed it entirely with **Javascript** and **Node.js ** as the execution environment of the same, in this I include the following structure:
 
 
 ```
